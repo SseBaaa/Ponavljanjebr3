@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ponavljanjebr3", "Ponavljanjebr3\Ponavljanjebr3.csproj", "{E620A129-09F3-470C-AEA3-E528BCBE8B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E620A129-09F3-470C-AEA3-E528BCBE8B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E620A129-09F3-470C-AEA3-E528BCBE8B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E620A129-09F3-470C-AEA3-E528BCBE8B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E620A129-09F3-470C-AEA3-E528BCBE8B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9DBC53F-9A1F-4905-922F-98E715EDC4C1}
+	EndGlobalSection
+EndGlobal
